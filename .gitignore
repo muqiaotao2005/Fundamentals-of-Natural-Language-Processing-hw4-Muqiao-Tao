@@ -1,0 +1,43 @@
+.DS_Store
+__pycache__/
+*.pyc
+.claude/settings.local.json
+
+# Local environments, credentials, and editor state
+.env
+.env.*
+!.env.example
+.venv*/
+venv/
+envs/
+miniforge3/
+.idea/
+.vscode/
+.pytest_cache/
+.coverage
+*.pem
+*.key
+
+# Model downloads and generated experiment artifacts
+.cache/
+hf-cache/
+nltk_data/
+wandb/
+checkpoints/
+scratch_runs/
+*.log
+*.zip
+*.pt
+*.pth
+*.safetensors
+pytorch_model*.bin
+part1/out/
+part1/out_augmented/
+part1/out*.txt
+part2/results/*
+part2/records/*
+!part2/records/ground_truth_dev.pkl
+
+# Keep written-answer drafts outside the code repository
+*_answer.txt
+*_written_draft.*

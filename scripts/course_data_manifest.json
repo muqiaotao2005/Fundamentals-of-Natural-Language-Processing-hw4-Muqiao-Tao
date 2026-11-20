@@ -1,0 +1,14 @@
+{
+  "repository": "gregdurrett/nyu-dsga1011-a4",
+  "revision": "e67bb117926a8179baf8eb00ee4d94544408e550",
+  "files": {
+    "part2/data/dev.nl": "671ba295d6e446d41673b8e6b1509a195ca90794fc1f1c95da8786f8d056cfea",
+    "part2/data/dev.sql": "ed756b64df34ea85b58eadce47deb8d77f26faf1501802e245f18818fb261a52",
+    "part2/data/flight_database.db": "0fbdbc5694d6e1dc16585f594c820304678f1be4371626c0d5f095fc236976c8",
+    "part2/data/flight_database.schema": "0dffdc2cfe7cbf65bd1a1bdbdd8858c802b2b0601e38e02fcd86d9bd075069b1",
+    "part2/data/test.nl": "30bd75ac39bff33d4026f025c78da23fa4273266f26bd9768880c1efa7baf688",
+    "part2/data/train.nl": "8505480c5a00c36412156010e05348b784217a083f582fecbbb30e1829c6af36",
+    "part2/data/train.sql": "6df86c681ddb4c4471a5dbaffbfdfc9d75af060a348e1a13b105ad37b4e8c1bf",
+    "part2/records/ground_truth_dev.pkl": "89bd34f201a3a89622e23050225bc318e23b0d863a528909c665468af6423570"
+  }
+}
